@@ -1,29 +1,15 @@
-## Welcome to GitHub Pages
-
-
-
-### Markdown
-
-
+## 张克迪-简历
 
 ```markdown
 Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drizzleswing/zhangkd-resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
 
 ### 张克迪
-男 | 1987年10月 | 现居住于:河南 郑州
+男 | 1987年10月 | 现居住于:河南 郑州<br>
 6年工作经验 | 中共党员
 18538186380 | zhkd.flower@gmail.com
 ### 求职意向
